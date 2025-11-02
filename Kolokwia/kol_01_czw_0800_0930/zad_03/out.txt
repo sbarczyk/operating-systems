@@ -1,0 +1,19 @@
+gcc -Wall main.c -o main
+./main 5
+        child[0]: child pid=104, sleeping for 0 seconds
+        child[0]: I'm exiting
+        child[1]: child pid=105, sleeping for 1 seconds
+        child[2]: child pid=106, sleeping for 2 seconds
+parent: child process pid=104 exited with value 100
+        child[3]: child pid=107, sleeping for 3 seconds
+parent: going to sleep
+parent: sleeping
+        child[1]: I'm exiting
+parent: child process pid=105 exited with value 101
+parent: sleeping
+        child[2]: I'm exiting
+parent: child process pid=106 exited with value 102
+parent: sleeping
+        child[3]: I'm exiting
+parent: child process pid=107 exited with value 103
+parent: exiting

@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.sqlbook": "sql",
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
+    "__bit_reference": "c",
+    "__node_handle": "c",
+    "bitset": "c",
+    "deque": "c",
+    "limits": "c",
+    "locale": "c",
+    "optional": "c",
+    "ratio": "c",
+    "vector": "c"
+  }
+}
