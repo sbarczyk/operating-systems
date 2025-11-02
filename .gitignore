@@ -1,1 +1,8 @@
+
+# IDE and build system files
+.idea/
+.vscode/
+cmake-build-debug/
+
+# macOS system files
 .DS_Store

@@ -1,3 +1,0 @@
-/Users/szymon.barczyk/Desktop/SEMESTR IV/Systemy operacyjne/cmake-build-debug/CMakeFiles/Systemy_operacyjne.dir
-/Users/szymon.barczyk/Desktop/SEMESTR IV/Systemy operacyjne/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/szymon.barczyk/Desktop/SEMESTR IV/Systemy operacyjne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
